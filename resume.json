@@ -1,0 +1,238 @@
+{
+  "basics": {
+    "name": "Hank (Jung-Han) Wang",
+    "label": "Data Scientist",
+    "picture": "https://www.dropbox.com/s/e0abqm478qjaozr/AAEAAQAAAAAAAAXPAAAAJDEyMjI2OTQ5LTU4OTAtNDEwYi04ZGVlLWM4MDU5ZDI1YWU2Mw.jpg?raw=1",
+    "email": "junghanwang@gmail.com",
+    "phone": "(626) 385-8851",
+    "website": "https://doubleck.github.io/resume",
+    "summary": "Data science enthusiast with a Ph.D. degree in transportation data analysis and a master degree in statistical computing.  Strong focus on R/SAS and have been responsible for the statistical analysis, from clustering, regression, time series, machine learning. Experienced in Hadoop, SQL, Python and has experienced in providing data-driven solutions.",
+    "location": {
+      "address": "2908 Wareham Ct",
+      "postalCode": "FL 32707",
+      "city": "Casselberry",
+      "countryCode": "US",
+      "region": "Florida"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "junghanwang",
+        "url": "https://www.linkedin.com/in/junghanwang"
+      },
+      {
+        "network": "Github",
+        "username": "doubleck",
+        "url": "https://github.com/doubleck"
+      },
+      {
+        "network": "Blog",
+        "username": "R Calligraphy",
+        "url": "http://j-wang.blogspot.com/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "University of Central Florida",
+      "position": "Research Assistant",
+      "website": "www.ucf.edu",
+      "startDate": "2012-08-20",
+      "endDate": "Present",
+      "summary": "Developed statistical models for road safety using R and SAS; prepared a proposal for a transportation safety project; prepared reports for a project to Federal Highway Administration and Florida Department of Transportation (FDOT); ",
+      "highlights": [
+        "Developed a comprehensive feature selection function in Federal Highway’s project based on statistical and engineering concept, drastically improving efficiency and saving 5 hours of manual model feature selection for each trial",
+        "Developed an <a href=\" https://github.com/doubleck/bastudy\"> R package </a> for conducting comprehensive before-after studies and cross-section study to fulfill FDOT safety project with <a href=\"https://junghanwang.shinyapps.io/bastudy/\"> graphical user interface using shiny </a>",
+        "Published <a href=\"https://scholar.google.com/citations?user=0ty0-ikAAAAJ&hl=en\"> 5 journal articles and 8 presentations </a> in the field of transportation data analysis, 1 <a href=\" http://s3.amazonaws.com/academia.edu.documents/34027949/FDOT-BDK78-977-14-rpt.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&Expires=1467067743&Signature=C2V9W6lZIHu4xNUabP5CZhoNF18%3D&response-content-disposition=inline%3B%20filename%3DVALIDATION_AND_APPLICATION_OF_HIGHWAY_SA.pdf\"> traffic safety analysis report </a> for Florida Department of Transportation (FDOT); frequently utilized cutting edge data mining techniques such as random forests, and neural networks in R/SAS",
+        " Developed an <a href=\" https://github.com/doubleck/Rename-PDF-Journal\"> R program </a> to batch rename PDF files with the subjects name or other available meta-data."
+      ]
+    },
+    {
+      "company": "Business Network Solution",
+      "position": "Intern",
+      "website": "http://bnsgroup.net/",
+      "startDate": "2011-01-01",
+      "endDate": "2011-12-31",
+      "summary": "Performed server set up, backup, and maintenance; solved network problems and performed remote and on-site support for 6 companies; improved the average time for problem resolution",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "National Cheng Kung University",
+      "area": "Transportation Management Science",
+      "studyType": "Bachelor",
+      "startDate": "2004-08-01",
+      "endDate": "2008-06-30",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "California State Polytechnic University at Pomona",
+      "area": "Transportation Data Analysis",
+      "studyType": "Master of Science",
+      "startDate": "2010-09-20",
+      "endDate": "2012-06-20",
+      "gpa": "",
+      "courses": [
+        "R Programming for Transportation",
+        "C# Programming"
+      ]
+    },
+    {
+      "institution": "University of Central Florida",
+      "area": "Statistical Computing",
+      "studyType": "Master of Science",
+      "startDate": "2014-08-20",
+      "endDate": "2016-08-06",
+      "gpa": "",
+      "courses": [
+        "Time Series Modeling - <a href=\"http://doubleck.github.io/TS_Presentation_Reveal.js/final_slide.html\">Rmarkdown Presentation using reveal.js</a>",
+        "Experimental Design - <a href=\"http://doubleck.github.io/R_Find_Full_Factorial/full_factorial_explain.html\">R Program to Find Full Factorial Design</a> ",
+        "Theoretical Statistics - <a href=\"https://github.com/doubleck/LotteryForTheoStat/blob/master/LotteryRmd.pdf\">Probability of Winning Power Ball</a> "
+      ]
+    },
+    {
+      "institution": "University of Central Florida",
+      "area": "Transportation Data Analysis",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "2012-08-20",
+      "endDate": "2016-05-19",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Research Assistantship",
+      "date": "2012-08-20",
+      "awarder": "University of Central Florida",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "An R Package for Calculation of Crash Modification Factors with Graphical User Interface",
+      "publisher": "Western Decision Sciences Institute Annual Meeting",
+      "releaseDate": "2016-04-01",
+      "website": "https://github.com/doubleck/bastudy",
+      "summary": ""
+    },
+    {
+      "name": "Estimating Safety Performance Trends over Time for Treatments at Intersections in Florida",
+      "publisher": "Accident Analysis & Prevention",
+      "releaseDate": "2015-07-31",
+      "website": "http://goo.gl/81yTBd",
+      "summary": "This research applied ARIMA time series model to predict trends of safety improvement over time"
+    },
+    {
+      "name": "Other Publications",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "https://goo.gl/KkDR8c",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Statistical Software",
+      "level": "",
+      "keywords": [
+        "R",
+        "SAS",
+        "Python",
+        "JMP",
+        "SPSS"
+      ]
+    },
+    {
+      "name": "R Packages",
+      "level": "",
+      "keywords": [
+        "caret",
+        "shiny",
+        "ggplot2",
+        "dplyr",
+        "data.table"
+      ]
+    },
+    {
+      "name": "Visualization",
+      "level": "",
+      "keywords": [
+        "ggplot2",
+        "shiny",
+        "Tableau",
+        "plotly"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "level": "",
+      "keywords": [
+        "Nonparametric",
+        "Bayesian",
+        "Time Series"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "Postgres",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Hadoop",
+      "level": "",
+      "keywords": [
+        "Hive",
+        "Pig",
+        "Spark"
+      ]
+    },
+    {
+      "name": "OS",
+      "level": "",
+      "keywords": [
+        "Linux",
+        "OS X",
+        "Windows"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Basketball",
+      "keywords": [
+        "College Varsity",
+        "PF"
+      ]
+    },
+    {
+      "name": "Chroral Singing",
+      "keywords": [
+        "Soloist in World Choir Games",
+        "Baritone"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Robert Norberg",
+      "reference": "Hank Wang is a great statistician and programmer, but what impressed me the most about working with him was how quickly he learned new things. When we started working together, I asked if he had ever used version control. He had never heard of it, but that night he made his first git commit. Our collaboration took off from there.  He is also very passionate about his work. We've spent weekends together programming, just for fun. His passion for learning truly inspires me to learn as well. All around a fantastic team member to have."
+    }
+  ]
+}
