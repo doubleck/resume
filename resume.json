@@ -6,7 +6,7 @@
     "email": "junghanwang@gmail.com",
     "phone": "(626) 385-8851",
     "website": "https://doubleck.github.io/resume",
-    "summary": "Data science enthusiast with a Ph.D. degree in transportation data analysis and a master degree in statistical computing. Had over 5 years of intensive hand-on experiences on data cleaning, statistical analysis from clustering, regression, time series, and machine learning to address business problems using R & SAS. Experienced in Hadoop, SQL, Python and consistently providing data-driven solutions.",
+    "summary": "Data science enthusiast with a Ph.D. degree in transportation data analysis and a master degree in statistical computing. Had over 5 years of intensive hands-on experiences on data cleaning, statistical analysis from clustering, regression, time series, and machine learning to address business problems using R, SAS, Hadoop, SQL, and Python. I have a strong track record of delivering actionable results and consistently providing data-driven solutions to challenging problems.",
     "location": {
       "address": "2908 Wareham Ct",
       "postalCode": "FL 32707,",
@@ -39,7 +39,7 @@
       "website": "www.ucf.edu",
       "startDate": "2012-08-20",
       "endDate": "Now",
-      "summary": "Led a team to develop statistical models for roadway safety using R and SAS; proactively drafted a proposal from the initial idea and granted $250,000; in charge of statistical modeling for a project to Federal Highway Administration (FHWA) and Florida Department of Transportation (FDOT);",
+      "summary": "Led a team to develop statistical models for roadway safety using R and SAS; proactively drafted a proposal from the initial idea and granted $250,000; in charge of statistical modeling for a project to Federal Highway Administration (FHWA) and Florida Department of Transportation (FDOT)",
       "highlights": [
         "Developed a comprehensive feature selection function in FHWA’s project based on statistical and engineering concept, drastically improving efficiency and saving 5 hours of manual model feature selection for each trial",
         "Developed an <a href=\" https://github.com/doubleck/bastudy\"> R package </a> for conducting comprehensive before-after studies and cross-section study to fulfill FDOT safety project with <a href=\"https://junghanwang.shinyapps.io/bastudy/\"> graphical user interface using shiny </a>",
