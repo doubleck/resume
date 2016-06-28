@@ -6,7 +6,7 @@
     "email": "junghanwang@gmail.com",
     "phone": "(626) 385-8851",
     "website": "https://doubleck.github.io/resume",
-    "summary": "Data science enthusiast with a Ph.D. degree in transportation data analysis and a master degree in statistical computing.  Strong focus on R/SAS and have been responsible for the statistical analysis, from clustering, regression, time series, machine learning. Experienced in Hadoop, SQL, Python and has experienced in providing data-driven solutions.",
+    "summary": "Data science enthusiast with a Ph.D. degree in transportation data analysis and a master degree in statistical computing.  Strong focus on R & SAS and have been responsible for the statistical analysis, from clustering, regression, time series, machine learning. Experienced in Hadoop, SQL, Python and have experienced in providing data-driven solutions.",
     "location": {
       "address": "2908 Wareham Ct",
       "postalCode": "FL 32707",
@@ -38,12 +38,12 @@
       "position": "Research Assistant",
       "website": "www.ucf.edu",
       "startDate": "2012-08-20",
-      "endDate": "Present",
-      "summary": "Developed statistical models for road safety using R and SAS; prepared a proposal for a transportation safety project; prepared reports for a project to Federal Highway Administration and Florida Department of Transportation (FDOT); ",
+      "endDate": "Now",
+      "summary": "Developed statistical models for road safety using R and SAS; prepared a proposal for a transportation safety project; prepared reports for a project to Federal Highway Administration (FHWA) and Florida Department of Transportation (FDOT); ",
       "highlights": [
-        "Developed a comprehensive feature selection function in Federal Highway’s project based on statistical and engineering concept, drastically improving efficiency and saving 5 hours of manual model feature selection for each trial",
+        "Developed a comprehensive feature selection function in FHWA’s project based on statistical and engineering concept, drastically improving efficiency and saving 5 hours of manual model feature selection for each trial",
         "Developed an <a href=\" https://github.com/doubleck/bastudy\"> R package </a> for conducting comprehensive before-after studies and cross-section study to fulfill FDOT safety project with <a href=\"https://junghanwang.shinyapps.io/bastudy/\"> graphical user interface using shiny </a>",
-        "Published <a href=\"https://scholar.google.com/citations?user=0ty0-ikAAAAJ&hl=en\"> 5 journal articles and 8 presentations </a> in the field of transportation data analysis, 1 <a href=\" http://s3.amazonaws.com/academia.edu.documents/34027949/FDOT-BDK78-977-14-rpt.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&Expires=1467067743&Signature=C2V9W6lZIHu4xNUabP5CZhoNF18%3D&response-content-disposition=inline%3B%20filename%3DVALIDATION_AND_APPLICATION_OF_HIGHWAY_SA.pdf\"> traffic safety analysis report </a> for Florida Department of Transportation (FDOT); frequently utilized cutting edge data mining techniques such as random forests, and neural networks in R/SAS",
+        "Published <a href=\"https://scholar.google.com/citations?user=0ty0-ikAAAAJ&hl=en\"> 5 journal articles and 8 presentations </a> in the field of transportation data analysis, 1 <a href=\" http://s3.amazonaws.com/academia.edu.documents/34027949/FDOT-BDK78-977-14-rpt.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&Expires=1467067743&Signature=C2V9W6lZIHu4xNUabP5CZhoNF18%3D&response-content-disposition=inline%3B%20filename%3DVALIDATION_AND_APPLICATION_OF_HIGHWAY_SA.pdf\"> traffic safety analysis report </a> for FDOT; frequently utilized cutting edge data mining techniques such as random forestss and neural networks in R & SAS",
         " Developed an <a href=\" https://github.com/doubleck/Rename-PDF-Journal\"> R program </a> to batch rename PDF files with the subjects name or other available meta-data."
       ]
     },
