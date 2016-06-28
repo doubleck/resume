@@ -39,7 +39,7 @@
       "website": "www.ucf.edu",
       "startDate": "2012-08-20",
       "endDate": "Now",
-      "summary": "Led a team to develop statistical models for roadway safety using R and SAS; proactively drafted a proposal from the initial idea and granted $250,000; in charge of statistical modeling for a project to Federal Highway Administration (FHWA) and Florida Department of Transportation (FDOT)",
+      "summary": "Led a team to develop statistical models\nfor roadway safety using R and SAS; proactively drafted a proposal from the\ninitial idea and granted $250,000; in charge of multiple projects from Federal\nHighway Administration (FHWA) and Florida Department of Transportation (FDOT)",
       "highlights": [
         "Developed a comprehensive feature selection function in FHWA’s project based on statistical and engineering concept, drastically improving efficiency and saving 5 hours of manual model feature selection for each trial",
         "Developed an <a href=\" https://github.com/doubleck/bastudy\"> R package </a> for conducting comprehensive before-after studies and cross-section study to fulfill FDOT safety project with <a href=\"https://junghanwang.shinyapps.io/bastudy/\"> graphical user interface using shiny </a>",
