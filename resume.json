@@ -6,12 +6,12 @@
     "email": "junghanwang@gmail.com",
     "phone": "(626) 385-8851",
     "website": "https://doubleck.github.io/resume",
-    "summary": "Data science enthusiast with a Ph.D. degree in transportation data analysis and a master degree in statistical computing.  Have being focusing on R & SAS and responsible for the statistical analysis, from clustering, regression, time series, machine learning. Experienced in Hadoop, SQL, Python and have experienced in providing data-driven solutions.",
+    "summary": "Data science enthusiast with a Ph.D. degree in transportation data analysis and a master degree in statistical computing. Had over 5 years of intensive hand-on experiences on data cleaning, statistical analysis from clustering, regression, time series, and machine learning to address business problems using R & SAS. Experienced in Hadoop, SQL, Python and consistently providing data-driven solutions.",
     "location": {
       "address": "2908 Wareham Ct",
-      "postalCode": "FL 32707",
+      "postalCode": "FL 32707,",
       "city": "Casselberry",
-      "countryCode": "US",
+      "countryCode": "USA",
       "region": "Florida"
     },
     "profiles": [
@@ -39,7 +39,7 @@
       "website": "www.ucf.edu",
       "startDate": "2012-08-20",
       "endDate": "Now",
-      "summary": "Developed statistical models for road safety using R and SAS; prepared a proposal for a transportation safety project; prepared reports for a project to Federal Highway Administration (FHWA) and Florida Department of Transportation (FDOT); ",
+      "summary": "Led a team to develop statistical models for roadway safety using R and SAS; proactively drafted a proposal from the initial idea and granted $250,000; in charge of statistical modeling for a project to Federal Highway Administration (FHWA) and Florida Department of Transportation (FDOT);",
       "highlights": [
         "Developed a comprehensive feature selection function in FHWA’s project based on statistical and engineering concept, drastically improving efficiency and saving 5 hours of manual model feature selection for each trial",
         "Developed an <a href=\" https://github.com/doubleck/bastudy\"> R package </a> for conducting comprehensive before-after studies and cross-section study to fulfill FDOT safety project with <a href=\"https://junghanwang.shinyapps.io/bastudy/\"> graphical user interface using shiny </a>",
@@ -60,25 +60,13 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "National Cheng Kung University",
-      "area": "Transportation Management Science",
-      "studyType": "Bachelor",
-      "startDate": "2004-08-01",
-      "endDate": "2008-06-30",
+      "institution": "University of Central Florida",
+      "area": "Transportation Data Analysis",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "2012-08-20",
+      "endDate": "2016-05-19",
       "gpa": "",
       "courses": []
-    },
-    {
-      "institution": "California State Polytechnic University at Pomona",
-      "area": "Transportation Data Analysis",
-      "studyType": "Master of Science",
-      "startDate": "2010-09-20",
-      "endDate": "2012-06-20",
-      "gpa": "",
-      "courses": [
-        "R Programming for Transportation",
-        "C# Programming"
-      ]
     },
     {
       "institution": "University of Central Florida",
@@ -94,11 +82,23 @@
       ]
     },
     {
-      "institution": "University of Central Florida",
+      "institution": "California State Polytechnic University at Pomona",
       "area": "Transportation Data Analysis",
-      "studyType": "Doctor of Philosophy",
-      "startDate": "2012-08-20",
-      "endDate": "2016-05-19",
+      "studyType": "Master of Science",
+      "startDate": "2010-09-20",
+      "endDate": "2012-06-20",
+      "gpa": "",
+      "courses": [
+        "R Programming for Transportation",
+        "C# Programming"
+      ]
+    },
+    {
+      "institution": "National Cheng Kung University",
+      "area": "Transportation Management Science",
+      "studyType": "Bachelor",
+      "startDate": "2004-08-01",
+      "endDate": "2008-06-30",
       "gpa": "",
       "courses": []
     }
