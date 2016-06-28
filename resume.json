@@ -29,6 +29,11 @@
         "network": "Blog",
         "username": "R Calligraphy",
         "url": "http://j-wang.blogspot.com/"
+      },
+      {
+        "network": "Download",
+        "username": "Download Resume in PDF",
+        "url": "https://doubleck.github.io/resume/pdf_resume.pdf"
       }
     ]
   },
